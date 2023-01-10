@@ -16,6 +16,8 @@ then
     echo -e "${brown}--------------------------------"
     echo -e "${green}anglar is installed!"
     echo -e "${brown}--------------------------------"
+else
+    
 fi
 
 echo -e "${reset}Checking for node installation"

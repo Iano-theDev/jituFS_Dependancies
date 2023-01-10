@@ -1,5 +1,5 @@
 #INITIAL SETUP FOR THE JITU TRAINEES DEVELOPMENT ENVIROMENT
-## The script is supposed to install the following:
+## The script is supposed to the following installations:
 	* NodeJS 
 	* typescript
 	* MsSQL server
