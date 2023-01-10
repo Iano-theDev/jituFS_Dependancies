@@ -5,4 +5,4 @@ This script is designed to check the installation of various software components
 
 To use the script, make sure that you have installed the required software components, then run the script by executing the following command in your terminal:
 ```bash
-./script.sh
+sudo ./script.sh
