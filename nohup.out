@@ -1,0 +1,63 @@
+● mssql-server.service - Microsoft SQL Server Database Engine
+     Loaded: loaded (/lib/systemd/system/mssql-server.service; enabled; vendor preset: enabled)
+     Active: active (running) since Mon 2023-01-09 12:22:52 EAT; 21h ago
+       Docs: https://docs.microsoft.com/en-us/sql/linux
+   Main PID: 4277 (sqlservr)
+      Tasks: 159
+     Memory: 1.0G
+     CGroup: /system.slice/mssql-server.service
+             ├─4277 /opt/mssql/bin/sqlservr
+             └─4304 /opt/mssql/bin/sqlservr
+
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [61B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [66B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [75B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [100B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [71B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [124B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [156B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [195B blob data]
+● mssql-server.service - Microsoft SQL Server Database Engine
+     Loaded: loaded (/lib/systemd/system/mssql-server.service; enabled; vendor preset: enabled)
+     Active: active (running) since Mon 2023-01-09 12:22:52 EAT; 21h ago
+       Docs: https://docs.microsoft.com/en-us/sql/linux
+   Main PID: 4277 (sqlservr)
+      Tasks: 159
+     Memory: 1.0G
+     CGroup: /system.slice/mssql-server.service
+             ├─4277 /opt/mssql/bin/sqlservr
+             └─4304 /opt/mssql/bin/sqlservr
+
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [61B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [66B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [75B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [100B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [71B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [124B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [156B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [195B blob data]
+● mssql-server.service - Microsoft SQL Server Database Engine
+     Loaded: loaded (/lib/systemd/system/mssql-server.service; enabled; vendor preset: enabled)
+     Active: active (running) since Mon 2023-01-09 12:22:52 EAT; 21h ago
+       Docs: https://docs.microsoft.com/en-us/sql/linux
+   Main PID: 4277 (sqlservr)
+      Tasks: 159
+     Memory: 1.0G
+     CGroup: /system.slice/mssql-server.service
+             ├─4277 /opt/mssql/bin/sqlservr
+             └─4304 /opt/mssql/bin/sqlservr
+
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [61B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:02 DESKTOP-JJ0PGVK sqlservr[4304]: [66B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [75B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [96B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [100B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [71B blob data]
+Jan 09 12:23:03 DESKTOP-JJ0PGVK sqlservr[4304]: [124B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [156B blob data]
+Jan 09 12:30:54 DESKTOP-JJ0PGVK sqlservr[4304]: [195B blob data]
