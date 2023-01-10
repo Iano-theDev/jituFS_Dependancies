@@ -17,7 +17,7 @@ then
     echo -e "${green}anglar is installed!"
     echo -e "${brown}--------------------------------"
 else
-    
+
 fi
 
 echo -e "${reset}Checking for node installation"
@@ -42,6 +42,8 @@ then
     echo -e "${brown}--------------------------------"
     echo -e "${green}git is installed!"
     echo -e "${brown}--------------------------------"
+else 
+    apt install git
 fi
 
 echo "Checking for MsSQL installation"
