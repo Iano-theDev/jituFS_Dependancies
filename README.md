@@ -1,4 +1,4 @@
-#INITIAL SETUP FOR THE JITU TRAINEES DEVELOPMENT ENVIROMENT
+# INITIAL SETUP FOR THE JITU TRAINEES DEVELOPMENT ENVIROMENT
 ## The script is supposed to the following installations:
 	* NodeJS 
 	* typescript
